@@ -1,5 +1,8 @@
 {
+    "name": "ove/ove-mdp",
+    "description": "OVE - Manuel des procédures",
     "require": {
+        "php": ">=5.3.0",
         "monolog/monolog": "1.2.*"
     }
 }
